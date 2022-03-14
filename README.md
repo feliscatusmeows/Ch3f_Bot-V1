@@ -1,3 +1,4 @@
+# RIP Ch3f_Bots, Died 10-03-2022, "Killed by Microsoft using \[Account Migration]"
 # Ch3f_Bot V1
 Updated 25.02.2021
 V2 development startet. V1 Code will be available soon
